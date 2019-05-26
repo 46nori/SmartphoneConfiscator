@@ -19,3 +19,13 @@ My son : "The reason of my poorly grade at school is due to smatphone!"
     http://akizukidenshi.com/download/ds/sunlike/SC1602BSLB-XA-GB-K_20181119.pdf
 * 4 buttons for configuration
 * 5V external power supply
+
+## Screenshots
+
+![Front view](https://github.com/46nori/SmartphoneConfiscator/blob/master/doc/images/front.JPG)
+
+![Rear view](https://github.com/46nori/SmartphoneConfiscator/blob/master/doc/images/rear.JPG)
+
+![Particle Photon](https://github.com/46nori/SmartphoneConfiscator/blob/master/doc/images/photon.JPG)
+
+![IFTTT Widget for Emergency Unlock](https://github.com/46nori/SmartphoneConfiscator/blob/master/doc/images/widget.PNG)
