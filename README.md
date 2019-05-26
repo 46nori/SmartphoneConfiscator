@@ -20,6 +20,15 @@ My son : "The reason of my poorly grade at school is due to smatphone!"
 * 4 buttons for configuration
 * 5V external power supply
 
+## How to use
+1. Open the tray and put the smartphone. (You can put anything actually.)
+2. Set countdown timer. (Hour and minutes up to 24hour 59minutes.)
+3. Push the start button.
+4. Tray will be locked, and remaining time is shown.
+5. Tray will be unlocked when the countdown timer is expired.
+
+Emegency unlock widget (IFTTT) is able to unlock in anytime. (But it is owned only by parents. :-P )
+
 ## Screenshots
 
 ![Front view](https://github.com/46nori/SmartphoneConfiscator/blob/master/doc/images/front.JPG)
