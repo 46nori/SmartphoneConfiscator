@@ -1,5 +1,5 @@
 # Smartphone Confiscator
-My son : "The reason of my poorly grade at school is due to smatphone!"
+My son : "The reason of my poorly grade at school is due to smartphone!"
 
 46nori : "OK, I'm gonna make a machine confiscating your phone!!"
 
@@ -43,10 +43,20 @@ My son : "The reason of my poorly grade at school is due to smatphone!"
   * To implement ```bool UISTMBridge::IsCaseClosed()``` as return true if the tray position is correct.
 
 ## Screenshots
+**Front View**  
+Button Layout
+- White Button: Up / Down
+- Blue Button: Mode
+- Red Button: Set  
 ![Front view](https://github.com/46nori/SmartphoneConfiscator/blob/master/doc/images/front.JPG)
 
+**Rear View**  
+5V AC Adopter outlet  
 ![Rear view](https://github.com/46nori/SmartphoneConfiscator/blob/master/doc/images/rear.JPG)
 
+**Particle Photon and LCD module**  
 ![Particle Photon](https://github.com/46nori/SmartphoneConfiscator/blob/master/doc/images/photon.JPG)
 
+**IFTTT widget**  
+Button WIdget and Particle Service  
 ![IFTTT Widget for Emergency Unlock](https://github.com/46nori/SmartphoneConfiscator/blob/master/doc/images/widget.PNG)
